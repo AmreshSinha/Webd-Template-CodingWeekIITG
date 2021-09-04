@@ -6,3 +6,5 @@
 - Custom CSS
 - Bootstrap
 - Unsplash API for Pics
+
+## Made for Coding Week IITG and OS with ❤️ by <a href="https://github.com/AmreshSinha">Amresh</a>
